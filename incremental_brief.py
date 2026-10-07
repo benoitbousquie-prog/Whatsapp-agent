@@ -7,7 +7,7 @@ from openai import OpenAI
 load_dotenv()
 
 GROUP_NAME = "Benjamines Alevines TriCorrecas"
-EMAIL_TO = "benoitbousquie@gmail.com"
+EMAIL_TO = "yourname@gmail.com"
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 resend.api_key = os.getenv("RESEND_API_KEY")

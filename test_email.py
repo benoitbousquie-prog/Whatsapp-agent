@@ -8,7 +8,7 @@ resend.api_key = os.getenv("RESEND_API_KEY")
 
 params = {
     "from": "onboarding@resend.dev",
-    "to": ["benoitbousquie@gmail.com"],
+    "to": ["yourname@gmail.com"],
     "subject": "Test - WhatsApp Agent",
     "html": """
     <h2>WhatsApp Agent fonctionne !</h2>

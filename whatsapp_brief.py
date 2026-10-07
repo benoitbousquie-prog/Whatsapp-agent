@@ -11,7 +11,7 @@ load_dotenv()
 # -------------------------
 
 GROUP_NAME = "Benjamines Alevines TriCorrecas"
-EMAIL_TO = "benoitbousquie@gmail.com"
+EMAIL_TO = "yourname@gmail.com"
 
 # -------------------------
 # Connexion aux services

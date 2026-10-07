@@ -9,7 +9,7 @@ from openai import OpenAI
 # CONFIGURATION
 # ============================================================
 
-EMAIL_TO = "benoitbousquie@gmail.com"
+EMAIL_TO = "yourname@gmail.com"
 
 # ============================================================
 # ENVIRONMENT

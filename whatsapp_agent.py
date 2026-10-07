@@ -10,7 +10,7 @@ from playwright.sync_api import sync_playwright
 # CONFIGURATION
 # ============================================================
 
-EMAIL_TO = "benoitbousquie@gmail.com"
+EMAIL_TO = "yourname@gmail.com"
 
 # ============================================================
 # ENVIRONNEMENT
